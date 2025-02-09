@@ -168,24 +168,129 @@
       "filePath": "http://download.microsoft.com/download/8/F/7/8F7024D2-AB2A-4BE2-8406-1E3AC49C5C1F/9600.16384.WINBLUE_RTM.130821-1623_X64FRE_SERVER_SOLUTION_EN-US-IRM_SSSO_X64FRE_EN-US_DV5.ISO"
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "Hyper-V Server 2012 R2",
       "OS Type": "Windows Server",
       "version": "64 bit",
       "filePath": "http://download.microsoft.com/download/F/7/D/F7DF966B-5C40-4674-9A32-D83D869A3244/9600.16384.WINBLUE_RTM.130821-1623_X64FRE_SERVERHYPERCORE_EN-US-IRM_SHV_X64FRE_EN-US_DV5.ISO"
     },
     {
-      "id": 24,
+      "id": 26,
       "title": "Windows Server 2012",
       "OS Type": "Windows Server",
       "version": "64 bit",
       "filePath": "http://download.microsoft.com/download/6/D/A/6DAB58BA-F939-451D-9101-7DE07DC09C03/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_EN-US-HRM_SSS_X64FREE_EN-US_DV5.ISO"
     },
     {
-      "id": 24,
+      "id": 27,
       "title": "Hyper-V Server 2012",
       "OS Type": "Windows Server",
       "version": "64 bit",
       "filePath": "http://download.microsoft.com/download/3/4/7/347A95F0-A63C-492F-BE43-F376AE30C9FE/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVERHYPERCORE_EN-US-HRM_SHV_X64FRE_EN-US_DV5.ISO"
+    },
+    {
+      "id": 28,
+      "title": "Kali Linux",
+      "OS Type": "Linux",
+      "version": "32 bit",
+      "filePath": "https://cdimage.kali.org/current/kali-linux-2024.3-live-i386.iso"
+    },
+    {
+      "id": 29,
+      "title": "Kali Linux",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://cdimage.kali.org/current/kali-linux-2024.3-live-amd64.iso"
+    },
+    {
+      "id": 30,
+      "title": "Ubuntu",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso"
+    },
+    {
+      "id": 31,
+      "title": "Linux Mint Cinnamon",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://mirrors.kernel.org/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+      "id": 32,
+      "title": "Linux Mint MATE",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://mirrors.kernel.org/linuxmint/stable/20.2/linuxmint-20.2-mate-64bit.iso"
+    },
+    {
+      "id": 33,
+      "title": "Linux Mint XFCE",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://mirrors.kernel.org/linuxmint/stable/20.2/linuxmint-20.2-xfce-64bit.iso"
+    },
+    {
+      "id": 34,
+      "title": "Debian 10 Xfce",
+      "OS Type": "Linux",
+      "version": "32 bit",
+      "filePath": "https://cdimage.debian.org/debian-cd/10.10.0/i386/iso-cd/debian-10.10.0-i386-xfce-CD-1.iso"
+    },
+    {
+      "id": 35,
+      "title": "Debian 10 Xfce",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://cdimage.debian.org/debian-cd/10.10.0/amd64/iso-cd/debian-10.10.0-amd64-xfce-CD-1.iso"
+    },
+    {
+      "id": 36,
+      "title": "Elementary OS",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://sgp1.dl.elementary.io/download/MTYyNjc3OTE2NQ==/elementaryos-5.1-stable.20200814.iso"
+    },
+    {
+      "id": 37,
+      "title": "Arch Linux",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://mirror.sg.gs/archlinux/iso/latest/archlinux-2024.11.01-x86_64.iso"
+    },
+    {
+      "id": 38,
+      "title": "Fedora 34 Workstation",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://ftp.yz.yamagata-u.ac.jp/pub/linux/fedora-projects/fedora/linux//releases/34/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-34-1.2.iso"
+    },
+    {
+      "id": 39,
+      "title": "Parrot OS Security Edition",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://download.parrot.sh/parrot/iso/4.11.2/Parrot-security-4.11.2_amd64.iso"
+    },
+    {
+      "id": 40,
+      "title": "BlackArch Linux",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-full-2021.09.01-x86_64.iso"
+    },
+    {
+      "id": 41,
+      "title": "Garuda Linux KDE Dr460nized",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://mirrors.fossho.st/garuda/iso/garuda/dr460nized/210809/garuda-dr460nized-linux-zen-210809.iso"
+    },
+    {
+      "id": 42,
+      "title": "Garuda Linux XFCE Edition",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://mirrors.fossho.st/garuda/iso/garuda/xfce/210809/garuda-xfce-linux-lts-210809.iso"
     }
-  ]
+  ]  
