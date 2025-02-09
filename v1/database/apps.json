@@ -43,8 +43,8 @@
     },
     {
       "id": 8,
-      "title": "Driver: San Francisco",
-      "Type": "Games",
-      "filePath": "https://archive.org/download/driversanfrancisco/Driver%20San%20Francisco.iso"
+      "title": "Discord",
+      "Type": "Tools & Utilities",
+      "filePath": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"
     }
   ]  
