@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Windows 7 Ultimate",
+        "OS Type": "Windows",
+        "version": "32 bit",
+        "filePath": "https://cdn.as212934.net/windows/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x86FRE_en-us.iso"
+    },
+    {
+        "id": 2,
+        "title": "Windows 7 Ultimate",
+        "OS Type": "Windows",
+        "version": "64 bit",
+        "filePath": "https://cdn.as212934.net/windows/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso"
+    },
+]
