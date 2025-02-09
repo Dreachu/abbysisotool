@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "title": "Office 2021 Professional Plus",
+      "Type": "Office & PDF",
+      "filePath": "https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img"
+    },
+    {
+      "id": 2,
+      "title": "Office 2019 Professional Plus",
+      "Type": "Office & PDF",
+      "filePath": "http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img"
+    }
+  ]  
