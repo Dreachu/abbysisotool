@@ -40,5 +40,12 @@
       "title": "Office 365 Professional Plus",
       "Type": "Office & PDF",
       "filePath": "https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img"
+    },
+    {
+      "id": 8,
+      "title": "Discord",
+      "Type": "Tools & Utilities",
+      "filePath": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"
     }
+  ] 
   ]  
