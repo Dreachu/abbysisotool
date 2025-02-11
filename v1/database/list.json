@@ -187,5 +187,12 @@
       "OS Type": "Windows Server",
       "version": "64 bit",
       "filePath": "http://download.microsoft.com/download/3/4/7/347A95F0-A63C-492F-BE43-F376AE30C9FE/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVERHYPERCORE_EN-US-HRM_SHV_X64FRE_EN-US_DV5.ISO"
+    },
+    {
+      "id": 28,
+      "title": "Android TV",
+      "OS Type": "Linux",
+      "version": "64 bit",
+      "filePath": "https://archive.org/download/androidtv-x86/AndroidTV9-x64-k5.18.0-arm-gapps-wifi6-%2807.02.23%29.iso"
     }
   ]  
