@@ -99,9 +99,107 @@
   },
   {
     "id": 15,
+    "title": "Billy Hatcher and the Giant Egg",
+    "Type": "Games",
+    "Format": "iso",
+    "filePath": "https://archive.org/download/BHATGE-PC/Billy%20Hatcher.iso"
+  },
+  {
+    "id": 16,
+    "title": "Blur",
+    "Type": "Games",
+    "Format": "iso",
+    "filePath": "https://archive.org/download/blur-2010-video-game/Blur%20%282010%20Video%20Game%29.iso"
+  },
+  {
+    "id": 17,
+    "title": "Burnout Paradise: The Ultimate Box",
+    "Type": "Games",
+    "Format": "iso",
+    "filePath": "https://archive.org/download/burnout-paradise-the-ultimate-box-prophet/ppt-bpub.iso"
+  },
+  {
+    "id": 18,
+    "title": "Dreamcast Collection",
+    "Type": "Games",
+    "Format": "zip",
+    "filePath": "https://archive.org/download/dreamcast-collection-pc/Dreamcast%20Collection%20%28Repack%29%20-%20PC.zip"
+  },
+  {
+    "id": 19,
     "title": "Driver San Francisco",
     "Type": "Games",
     "Format": "iso",
     "filePath": "https://archive.org/download/driversanfrancisco/Driver%20San%20Francisco.iso"
+  },
+  {
+    "id": 20,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "Type": "Games",
+    "Format": "zip",
+    "filePath": "https://archive.org/download/elder-scrolls-iv-the-oblivion-usa/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20%28USA%29.zip"
+  },
+  {
+    "id": 21,
+    "title": "Fallout 3",
+    "Type": "Games",
+    "Format": "7z",
+    "filePath": "https://archive.org/download/Nova_Fallout3USA/Fallout%203%20%28USA%29.7z"
+  },
+  {
+    "id": 22,
+    "title": "Fallout: New Vegas Ultimate Edition",
+    "Type": "Games",
+    "Format": "7z",
+    "filePath": "https://archive.org/download/Nova_FalloutNVAnthologyUSA/Fallout%20-%20New%20Vegas%20-%20Ultimate%20Edition%20%28USA%29%20%28Fallout%20Anthology%29.7z"
+  },
+  {
+    "id": 23,
+    "title": "Fallout 4 GOTY Edition",
+    "Type": "Games",
+    "Format": "7z",
+    "filePath": "https://archive.org/download/fallout-4-gog/Fallout%204%20GOTY%20%28GOG%29%20ZIP.7z"
+  },
+  {
+    "id": 24,
+    "title": "Half-Life 2 Collector's Edition",
+    "Type": "Games",
+    "Format": "7z",
+    "filePath": "https://archive.org/download/Nova_HalfLife2USACollectors/Half-Life%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%2CRu%2CTh%29%20%28Collector%27s%20Edition%29.7z"
+  },
+  {
+    "id": 25,
+    "title": "Singularity",
+    "Type": "Games",
+    "Format": "rar",
+    "filePath": "https://archive.org/download/Singularity_USA/Disc.rar"
+  },
+  {
+    "id": 26,
+    "title": "Sonic Heroes",
+    "Type": "Games",
+    "Format": "rar",
+    "filePath": "https://archive.org/download/sonic-heroes_202202/Sonic%20Heroes.rar"
+  },
+  {
+    "id": 27,
+    "title": "The Simpsons: Hit & Run",
+    "Type": "Games",
+    "Format": "iso",
+    "filePath": "https://archive.org/download/the-simpsons-hit-and-run/The%20Simpsons%20Hit%20and%20Run.iso"
+  },
+  {
+    "id": 28,
+    "title": "Transformers Devastation",
+    "Type": "Games",
+    "Format": "iso",
+    "filePath": "https://archive.org/download/transformers-devastation_202306/Transformers%20Devastation.iso"
+  },
+  {
+    "id": 29,
+    "title": "Yooka-Laylee",
+    "Type": "Games",
+    "Format": "7z",
+    "filePath": "https://archive.org/download/Nova_YookaLayleeKickstarter/Yooka-Laylee%20%28USA%2C%20Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%2CRu%29.7z"
   }
 ]
