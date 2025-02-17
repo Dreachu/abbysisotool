@@ -162,41 +162,48 @@
   },
   {
     "id": 24,
+    "title": "Getting Over It With Bennett Foddy",
+    "Type": "Games",
+    "Format": "7z",
+    "filePath": "https://archive.org/download/getting-over-it-with-bennett-foddy.-7z/Getting%20Over%20It%20with%20Bennett%20Foddy.7z"
+  },
+  {
+    "id": 25,
     "title": "Half-Life 2 Collector's Edition",
     "Type": "Games",
     "Format": "7z",
     "filePath": "https://archive.org/download/Nova_HalfLife2USACollectors/Half-Life%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%2CRu%2CTh%29%20%28Collector%27s%20Edition%29.7z"
   },
   {
-    "id": 25,
+    "id": 26,
     "title": "Singularity",
     "Type": "Games",
     "Format": "rar",
     "filePath": "https://archive.org/download/Singularity_USA/Disc.rar"
   },
   {
-    "id": 26,
+    "id": 27,
     "title": "Sonic Heroes",
     "Type": "Games",
     "Format": "rar",
     "filePath": "https://archive.org/download/sonic-heroes_202202/Sonic%20Heroes.rar"
   },
   {
-    "id": 27,
+    "id": 28,
     "title": "The Simpsons: Hit & Run",
     "Type": "Games",
     "Format": "iso",
     "filePath": "https://archive.org/download/the-simpsons-hit-and-run/The%20Simpsons%20Hit%20and%20Run.iso"
   },
   {
-    "id": 28,
+    "id": 29,
     "title": "Transformers Devastation",
     "Type": "Games",
     "Format": "iso",
     "filePath": "https://archive.org/download/transformers-devastation_202306/Transformers%20Devastation.iso"
   },
   {
-    "id": 29,
+    "id": 30,
     "title": "Yooka-Laylee",
     "Type": "Games",
     "Format": "7z",
