@@ -52,7 +52,6 @@
     "id": 8,
     "title": "Discord",
     "Type": "Tools & Utilities",
-    "Icon": "https://cdn2.steamgriddb.com/grid/e876c26962ac12b0c1a6537aa4ca089a.png"
     "Format": "exe",
     "filePath": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"
   },
